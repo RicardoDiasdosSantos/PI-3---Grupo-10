@@ -8,5 +8,4 @@ INTEGRANTES:
 
 • Ricardo Dias dos Santos
 
-• Kawan Melo Fernandes
 
