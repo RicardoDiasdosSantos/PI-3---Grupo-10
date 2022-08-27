@@ -1,4 +1,4 @@
-# PI-3---Grupo-10
+# Projeto-barbearia
 
 - Sistema organizacional de uma barbearia
 
